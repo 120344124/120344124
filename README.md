@@ -3,4 +3,7 @@
 
 
 
-https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+하이
+
+![HTML5](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white
